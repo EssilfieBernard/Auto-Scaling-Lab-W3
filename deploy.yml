@@ -1,0 +1,5 @@
+template-file-path: asg-elb.yaml
+parameters:
+  KeyName: Week3KeyPair
+  LaunchTemplateSuffix: '001'
+tags: {}
